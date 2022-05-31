@@ -12,9 +12,9 @@ Based on MVVM pattern
         SchoolListView
         DetailSchoolView
             ❗️ToDo❗️:
-                embed mapkit show school pin
-                embed website for school
-    - * ViewModel
+                embed mapkit to show position
+                embed the home website of school
+    * ViewModel
     * Model
         defined data structur
     * Network
