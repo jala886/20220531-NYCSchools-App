@@ -1,4 +1,3 @@
-![Demo Snapshot](https://github.com/jala886/20220531-jian-li-NYCSchools/blob/main/Demo%20Snapshot/DetailView.png)
 
 This is  a demo for a school Informations 
 
@@ -27,6 +26,7 @@ TDD:
         fake for load SAT data
 ```
 ### 🛠 Appearance / Behavior Customization
+![Demo Snapshot](https://github.com/jala886/20220531-jian-li-NYCSchools/blob/main/Demo%20Snapshot/DetailView.png)
 
 ### 👀 Adapt visibility of:
 
