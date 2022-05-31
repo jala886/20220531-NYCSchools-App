@@ -10,9 +10,10 @@ Based on MVVM pattern
     * View
         SchoolListView
         DetailSchoolView
+            embed the home website of school
             ❗️ToDo❗️:
                 embed mapkit to show position
-                embed the home website of school
+                
     * ViewModel
     * Model
         defined data structur
