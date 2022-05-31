@@ -6,6 +6,7 @@ This is  a demo for a school Informations
 ## 🚀 Features
 
 ### 🖼 Overlays
+'''
 Based on MVVM pattern
     - * View
         --SchoolListView
@@ -24,7 +25,7 @@ TDD:
         fake for load school list
     testSchoolSATViewModel
         fake for load SAT data
-
+'''
 ### 🛠 Appearance / Behavior Customization
 
 ### 👀 Adapt visibility of:
