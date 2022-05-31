@@ -1,0 +1,6 @@
+module Pods_20220531_jian_li_NYCSchools {
+  umbrella header "Pods-20220531-jian&li-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}
