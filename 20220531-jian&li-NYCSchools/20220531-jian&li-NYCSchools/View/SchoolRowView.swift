@@ -13,11 +13,14 @@ struct SchoolRowView: View {
         VStack{
             HStack{
                 Text("Name: ").bold()
-                Text(school.name).font(.title3)
+                Text(school.name).font(.title3).lineLimit(1)
                 Spacer()
             }
             HStack{
-                Text("Addr: ").bold()
+                VStack{
+                    Text("Addr: ").bold()
+                    Spacer()
+                }
                 Text("\(school.location)")
                 Spacer()
             }

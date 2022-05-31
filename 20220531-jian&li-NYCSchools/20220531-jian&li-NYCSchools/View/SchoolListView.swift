@@ -21,7 +21,8 @@ struct SchoolListView: View {
                     NavigationLink(destination: DetailSchoolView(school:school,schoolSAT:schoolVM.getSchoolSAT(id:school.id))){ SchoolRowView(school: school)}
                     //SchoolRowView(school: school)
                 }
-            }
+            }.navigationBarTitle("")
+                .navigationBarHidden(true)
             
         }
     }
