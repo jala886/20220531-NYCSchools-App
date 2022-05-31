@@ -1,4 +1,4 @@
-![Demo Snapshot](https://github.com/jala886/20220531-jian-li-NYCSchools/tree/main/Demo%20Snapshot)
+![https://github.com/jala886/20220531-jian-li-NYCSchools/blob/main/Demo%20Snapshot/DetailView.png](https://github.com/jala886/20220531-jian-li-NYCSchools/tree/main/Demo%20Snapshot)
 
 This is  a demo for a school Informations 
 

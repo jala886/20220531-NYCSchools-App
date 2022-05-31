@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0212EC052846ADDB006524DC /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0212EC042846ADDB006524DC /* WebView.swift */; };
 		02DE40612846428D0022925F /* _0220531_jian_li_NYCSchoolsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DE40602846428D0022925F /* _0220531_jian_li_NYCSchoolsApp.swift */; };
 		02DE40632846428D0022925F /* SchoolListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DE40622846428D0022925F /* SchoolListView.swift */; };
 		02DE4065284642910022925F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02DE4064284642910022925F /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0212EC042846ADDB006524DC /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		02DE405D2846428D0022925F /* 20220531-jian&li-NYCSchools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "20220531-jian&li-NYCSchools.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02DE40602846428D0022925F /* _0220531_jian_li_NYCSchoolsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0220531_jian_li_NYCSchoolsApp.swift; sourceTree = "<group>"; };
 		02DE40622846428D0022925F /* SchoolListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolListView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				02DE40622846428D0022925F /* SchoolListView.swift */,
 				02DE408F284643040022925F /* DetailSchoolView.swift */,
 				02DE4099284648F20022925F /* SchoolRowView.swift */,
+				0212EC042846ADDB006524DC /* WebView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -377,6 +380,7 @@
 				02DE4098284646980022925F /* SchoolSatModel.swift in Sources */,
 				02DE409D28464B8D0022925F /* NetworkManager.swift in Sources */,
 				02DE4090284643040022925F /* DetailSchoolView.swift in Sources */,
+				0212EC052846ADDB006524DC /* WebView.swift in Sources */,
 				02DE4096284644A90022925F /* SchoolModel.swift in Sources */,
 				02DE40612846428D0022925F /* _0220531_jian_li_NYCSchoolsApp.swift in Sources */,
 			);
