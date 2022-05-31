@@ -7,13 +7,13 @@ This is  a demo for a school Informations
 
 ### 🖼 Overlays
 Based on MVVM pattern
-    * View
-        SchoolListView
-        DetailSchoolView
-            🪄ToDo:
-                embed mapkit
-                embed website for school
-    * ViewModel
+    - * View
+        --SchoolListView
+        --DetailSchoolView
+            ---🪄ToDo:
+                ----embed mapkit
+                ----embed website for school
+    - * ViewModel
     * Model
         defined data structur
     * Network
