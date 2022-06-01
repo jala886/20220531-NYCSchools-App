@@ -55,7 +55,11 @@ struct DetailSchoolView: View {
                 }
             }
 
-        }.navigationBarTitle(Text(school.name).font(.subheadline).bold(), displayMode: .large)
-        //.navigationBarHidden(true)
+        }.navigationBarTitleDisplayMode(.inline)
+            .toolbar{
+                ToolbarItem(placement: .principal){
+                    Text(school.name).bold().multilineTextAlignment(.center)
+                }
+            }
     }
 }

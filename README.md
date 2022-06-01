@@ -3,7 +3,11 @@ This is  a demo for a school Informations
 
 
 ## 🚀 Features
-
+```
+SwiftUI
+WebKit Embed
+TDD development
+```
 ### 🖼 Overlays
 ```
 Based on MVVM pattern
@@ -19,12 +23,15 @@ Based on MVVM pattern
         defined data structur
     * Network
         download data
+        ❗️ToDo❗️:
+            used API,
+            parse HTML by SwiftSoup 
 
 TDD:
     testSchoolListViewModel:
-        fake for load school list
+        mock data for load school list
     testSchoolSATViewModel
-        fake for load SAT data
+        mock data for load SAT data
 ```
 ### 🛠 Appearance / Behavior Customization
 ![Demo Snapshot](https://github.com/jala886/20220531-jian-li-NYCSchools/blob/main/Demo%20Snapshot/DetailView.png)
