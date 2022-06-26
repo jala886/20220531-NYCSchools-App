@@ -1,13 +1,13 @@
 //
-//  _0220531_jian_li_NYCSchoolsUITestsLaunchTests.swift
-//  20220531-jian&li-NYCSchoolsUITests
+//  NYCSchoolsUITestsLaunchTests.swift
+//  NYCSchoolsUITests
 //
-//  Created by jianli on 5/31/22.
+//  Created by jianli on 6/25/22.
 //
 
 import XCTest
 
-class _0220531_jian_li_NYCSchoolsUITestsLaunchTests: XCTestCase {
+class NYCSchoolsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

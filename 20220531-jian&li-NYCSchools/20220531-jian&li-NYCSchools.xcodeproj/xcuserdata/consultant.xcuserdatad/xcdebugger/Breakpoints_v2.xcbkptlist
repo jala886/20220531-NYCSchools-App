@@ -276,5 +276,149 @@
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A65A57EA-6511-4129-BDBA-8653CBA325E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchoolsUITests/NYCSchoolsUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "testSwitchBetween1And2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A65A57EA-6511-4129-BDBA-8653CBA325E0 - 708724536dbab7b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "278">
+               </Location>
+               <Location
+                  uuid = "A65A57EA-6511-4129-BDBA-8653CBA325E0 - 708724536dbab7b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "253">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F754881-14DD-4761-8994-F96B0928F2F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchoolsUITests/NYCSchoolsUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "testSwitchBetween1And2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F754881-14DD-4761-8994-F96B0928F2F8 - 708724536dbab716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "834">
+               </Location>
+               <Location
+                  uuid = "8F754881-14DD-4761-8994-F96B0928F2F8 - 708724536dbab716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "598">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B9D37FB-96A4-43F3-9C6D-E8A6E09459E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchoolsUITests/NYCSchoolsUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "testSwitchBetween1And2()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B9D37FB-96A4-43F3-9C6D-E8A6E09459E1 - 708724536dbab7f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "606">
+               </Location>
+               <Location
+                  uuid = "4B9D37FB-96A4-43F3-9C6D-E8A6E09459E1 - 708724536dbab7f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchoolsUITests.NYCSchoolsUITests.testSwitchBetween1And2() throws -&gt; ()"
+                  moduleName = "NYCSchoolsUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/iOS/git-repo/20220531-jian-li-nycschools/20220531-jian&amp;li-NYCSchools/NYCSchoolsUITests/NYCSchoolsUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
